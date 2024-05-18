@@ -267,7 +267,7 @@ img.line {
 
 main {
     display: block;
-    background-image: url(images/fuck222.jpeg);
+    /* background-image: url(images/fuck222.jpeg); */
     /* padding-top: 1rem; */
     overflow-x: hidden;
 }
