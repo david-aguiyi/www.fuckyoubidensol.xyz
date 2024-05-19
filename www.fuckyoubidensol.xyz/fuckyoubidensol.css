@@ -269,7 +269,7 @@ main {
     display: block;
     /* background-image: url(images/fuck222.jpeg); */
     /* padding-top: 1rem; */
-    overflow-x: hidden;
+    ;
 }
 
 .main-text {
@@ -509,6 +509,11 @@ img#comm {
     color: white;
     align-items: center;
     justify-content: center;
+    background-image: url(images/maybe.png);
+    background-repeat: no-repeat;
+    background-position: 0% 0%;
+    background-size: contain;
+
 }
 
 .fstep {
@@ -585,12 +590,23 @@ button.buy {
 }
 
 .dimag img {
-    width: 200px;
+    width: 400px;
+    height:300 ;
+    position: absolute;
+    top: -120px;
+    left: 50%;
+    transform: translateX(-50%);
+}
+
+.dimag .ton {
+    width: 225px;
     position: absolute;
     top: -60px;
     left: 50%;
     transform: translateX(-50%);
 }
+
+
 
 .cont {
     margin-top: 100px;
@@ -616,7 +632,9 @@ button.buy {
 }
 
 .dimag .sol {
-    width: 10rem;
+    width: ;
+    height: ;
+    top: -175px;
 }
 
 .fp2 {
@@ -647,6 +665,12 @@ button.buy {
 .section-5 {
     text-align: center;
     margin-top: 3rem;
+    background-image: url(images/mantu.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position-y:5px;
+    background-position-x: left;
+
 }
 
 .fcard3 {
