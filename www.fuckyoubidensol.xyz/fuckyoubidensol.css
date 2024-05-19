@@ -9,16 +9,22 @@
 
 body {
     height: 100vh;
-    background-image: url(images/fuck2.jpeg);
+    background-image: url(images/final.jpeg);
     background-size: contain;
     background-color: #000000;
     background-repeat: no-repeat;
     margin: 0;
-    overflow-x: hidden;
     width: 100%;
     max-width: 1440px;
 }
 
+#section-1 {
+    height: 100vh;
+    background-image: url(images/final.jpeg);
+    background-size: contain;
+    background-color: #000000;
+    background-repeat: no-repeat;
+}
 .senthead {
     position: fixed;
     height: 6em;
@@ -348,13 +354,7 @@ h1.bold-text {
     max-width: 88%;
 }
 
-#section-1 {
-    height: 100vh;
-    background-image: url(images/final.jpeg);
-    background-size: cover;
-    background-color: #000000;
-    background-repeat: no-repeat;
-}
+
 
 .features h4 {
     font-size: 1.15em;
@@ -632,8 +632,7 @@ button.buy {
 }
 
 .dimag .sol {
-    width: ;
-    height: ;
+    
     top: -175px;
 }
 
